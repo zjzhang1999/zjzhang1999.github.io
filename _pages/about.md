@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a MS student at the Department of [Information System](https://www.cb.cityu.edu.hk/is/) in CityU, where I study for [Dr. Raymond Y.K.Lau.](https://www.cb.cityu.edu.hk/staff/raylau/).I received my B.S. degree from [the College of Economics and Management] at the University of Nanjing Agricultural University (NAU),and received the honor of Outstanding Graduate. I am very fortunate to be advised by [Prof.Zhou Hong(https://economy.njau.edu.cn/xksz/jszx/zh.htm)] and [Prof.Geng Xianhui](https://economy.njau.edu.cn/xksz/jszx/gxh.htm).
+I am currently a MS student at the Department of [Information System](https://www.cb.cityu.edu.hk/is/) in CityU, where I study for [Dr. Raymond Y.K.Lau.](https://www.cb.cityu.edu.hk/staff/raylau/).I received my B.S. degree from [the College of Economics and Management](https://economy.njau.edu.cn/) at the University of Nanjing Agricultural University (NAU),and received the honor of Outstanding Graduate. I am very fortunate to be advised by [Prof.Zhou Hong](https://economy.njau.edu.cn/xksz/jszx/zh.htm) and [Prof.Geng Xianhui](https://economy.njau.edu.cn/xksz/jszx/gxh.htm).
 
 You can find my CV here:[Zijian 's Curriculum Vitae](../assets/Resume_Zijian.pdf).
 [Email](pedri7127@gmail.com)
