@@ -12,4 +12,5 @@ This paper is about Agricultural Finance.
 
 [Download paper here](http://zjzhang1999.github.io/files/paper2.pdf)
 
-Recommended citation: Zijian ZHANG et.al. (2021); Analysis for 'Insurance+Future' impact for farms.
+
+Recommended citation: Zijian ZHANG et.al. (2021). "Analysis for 'Insurance+Future' impact for farms." <i>Tianjin Agricultural Sciences</i>. 1(3).
