@@ -14,7 +14,7 @@ You can find my CV here:[Zijian 's Curriculum Vitae](../assets/Resume_Zijian.pdf
 [Email](mailto:pedri7127@gmail.com)
 
 
-A data-driven personal website
+Research Topics
 ======
 My prior research fields included Inclusive Finance, E-commerce, and Entrepreneurship. I explored the relationship between risk preferences and rural households' entrepreneurial behavior in my undergraduate dissertation. According to a six-year follow-up survey of 6468 rural Chinese households, the analysis shows that rural households with high risk appetite are more likely to make entrepreneurial choices, and a developed financial environment in rural areas is more likely to stimulate farm households' willingness to start a business. 
 
