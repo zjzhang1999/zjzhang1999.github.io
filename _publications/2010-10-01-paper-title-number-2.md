@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 
 ---
 This paper is about Agricultural Finance. 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zjzhang1999.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
