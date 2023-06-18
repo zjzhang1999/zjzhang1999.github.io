@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZHANG Zijian / Academic Page"
+title                    : "Zijian's Homepage"
 title_separator          : "-"
 name                     : &name "Zijian"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijian"
+  name             : "Zhang Zijian"
   avatar           : "profile.png"
   bio              : "👋 Hi,welcome to my homepage!"
-  location         : "Baoding,China"
+  location         : "Hong Kong,China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zjzhang1999"
   google_plus      :
   keybase          :
   instagram        :
