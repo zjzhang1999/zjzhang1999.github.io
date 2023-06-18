@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Agricultural Economics and Management, Nanjing Agricultural University, 2022
+* M.S. in Information System, City University of Hong Kong, 2023
+* Ph.D in CS,  MIT, 2017 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Assistant
+  * Core BioTech,Ltd
+  * Duties included: Data Processing
+  * Supervisor: Manager ZHANG
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020:  Investigative Assistant
+  * Peking University
+  * Duties included: CFPS2020 Invesstigator
+  * Supervisor: Dr Lu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language:Python SQL R PyTorch Spark
+* Machine Learning:Video Understanding Multimodal
 
 Publications
 ======
