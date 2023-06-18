@@ -5,7 +5,7 @@ permalink: /publication/2021-07-09-AGricultural Finance
 excerpt: 'This paper is about Agricultural Finance.'
 date: 2021-07-09
 venue: 'Tianjin Agricultural Sciences'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://github.com/zjzhang1999/zjzhang1999.github.io/blob/c6702c85a7bb2dad5a63ed1e5f21f251a384476f/files/paper2.pdf)'
+paperurl: 'files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about Agricultural Finance. 
