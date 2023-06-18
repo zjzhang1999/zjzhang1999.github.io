@@ -1,12 +1,12 @@
 ---
-title: "LALALA"
+title: "Agricultural Finance"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about Agricultural Finance,which use DID and mid-effect models to analytic'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'Tianjin Agricultural Sciences'
 paperurl: 'http://zjzhang1999.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Zijian, You. (2015). &quot;Paper Title Number 3.&quot; <i>Tianjin Agricultural Sciences</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
