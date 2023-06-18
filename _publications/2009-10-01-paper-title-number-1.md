@@ -1,6 +1,5 @@
 ---
-title: "Analysis of the Influence of "Insurance + Futures" Pilot on Farmers' Input and Management Scale of
-Agricultural Resources"
+title: "Analysis of the Influence of "Insurance + Futures" Pilot on Farmers' Input and Management Scale of Agricultural Resources"
 collection: publications
 permalink: /publication/2021-07-09-paper-title-number-1
 excerpt: 'This paper is about Agriculture Finance,also our SRT's final report.'
