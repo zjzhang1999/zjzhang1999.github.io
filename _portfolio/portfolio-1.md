@@ -17,3 +17,4 @@ In the second task, I used the mainstream deep learning frameworks CNN, RNN, and
 
 You can find the final report here:[Crowdfunding Research](../assets/Master_IS6912.pdf).
 
+
