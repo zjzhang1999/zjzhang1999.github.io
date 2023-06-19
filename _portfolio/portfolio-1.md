@@ -6,7 +6,7 @@ collection: portfolio
 
 
 
-
+<img src="../images/crowdfundchart.png" alt="crowdfunding image" align="right" width="300px">
 It is a indiviual report with six credit score. In this work,I summarize two types of cues that may have an impact on crowdfunding outcomes: explicit cues and implicit cues. Explicit cues emerged as crowdfunding projects started, such as real-time updates of social media comments, support numbers; Implicit cues are set before crowdfunding begins which include various project description in the form of text, image, audio, and video.  
 
 In order to comprehensively measure the predictive effect of different cues on crowdfunding outcomes, I initiated two prediction tasks, respectively. In the first task, I use a logistic regression model to measure the contribution of each feature signal pair. It was found that whether the project included a video, the number of backers, and the number of projects supported were the top three high impact signals. 
