@@ -9,4 +9,4 @@ In order to comprehensively measure the predictive effect of different cues on c
 In the second task, I used the mainstream deep learning frameworks CNN, RNN, and BERT as language models to compare the prediction performance of text, speech, and video signals under the three models. The results show that the prediction accuracy of text-based signals is generally higher than that of the other two signals, with TextCNN performing best at 76.1% (10.5% improvement over BiRNN and 2.6% improvement over BERT). The experiments for the two tasks were performed on data Kickstarter-3.8 and Kickstarter-1.1, respectively. 
 📺 In addition, in order to explore the interaction among different signals, I also designed a multi-modal model, which is detailed in Appendix D.
 
-You can find the final report here:[Crowdfunding Research](../assets/Master_IS6912 Course Project(Crowdfunding topic).pdf).
+You can find the final report here:[Crowdfunding Research](../assets/Master_IS6912).
