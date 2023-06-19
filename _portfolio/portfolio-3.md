@@ -1,6 +1,6 @@
 ---
 title: "online trust"
-excerpt: "This work is about online trust,which focus on the shifting trust on social media during crsis. <br/><img src='/images/trust'>"
+excerpt: "This work is about online trust,which focus on the shifting trust on social media during crsis. <br/><img src='/images/trust.png'>"
 collection: portfolio
 ---
 
