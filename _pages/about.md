@@ -13,6 +13,7 @@ I am currently a MS student at the Department of [Information System](https://ww
 You can find my CV here:[Zijian 's Curriculum Vitae](../assets/Resume_Zijian.pdf).
 
 [Email](mailto:pedri7127@gmail.com)
+[master](assets/Master_IS6912.pdf)
 
 
 Research Topics
