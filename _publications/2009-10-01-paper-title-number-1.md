@@ -3,7 +3,7 @@ title: "Agricultural Finance"
 collection: publications
 permalink: /publication/2021-07-09-paper-title-number-3
 excerpt: 'This paper is about Agricultural Finance,which use DID and mid-effect models to analytic'
-date: 2015-07-09
+date: 2009-10-01
 venue: 'Tianjin Agricultural Sciences'
 paperurl: 'http://zjzhang1999.github.io/files/paper2.pdf'
 citation: 'Zijian. (2021). &quot;Paper Title Number 3.&quot; <i>Tianjin Agricultural Sciences</i>. 1(3).'
