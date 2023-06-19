@@ -1,14 +1,15 @@
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+title: "Agricultural Finance"
+collection: publications
+permalink: /publication/2021-07-09-paper-title-number-3
+excerpt: 'This paper is about Agricultural Finance,which use DID and mid-effect models to analytic'
+date: 2015-07-09
+venue: 'Tianjin Agricultural Sciences'
+paperurl: 'http://zjzhang1999.github.io/files/paper2.pdf'
+citation: 'Zijian. (2021). &quot;Paper Title Number 3.&quot; <i>Tianjin Agricultural Sciences</i>. 1(3).'
+---
+This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zjzhang1999.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Zijian, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
