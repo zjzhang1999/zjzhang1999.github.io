@@ -16,5 +16,6 @@ In the second task, I used the mainstream deep learning frameworks CNN, RNN, and
 📺 In addition, in order to explore the interaction among different signals, I also designed a multi-modal model, which is detailed in Appendix D.
 
 You can find the final report here:[Crowdfunding Research](https://zjzhang1999.github.io/assets/Master_IS6912.pdf).
+hi
 
 
