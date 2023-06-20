@@ -7,7 +7,7 @@ collection: portfolio
 <!--hi world-->
 
 
-<img src='/images/crowdfundchart.png' align="right" width="300px">
+<img src='/images/crowdfundchart.png' align="right" width="300px" height='500px'>
 
 It is a indiviual report with six credit score. In this work,I summarize two types of cues that may have an impact on crowdfunding outcomes: **explicit** cues and **implicit** cues. Explicit cues emerged as crowdfunding projects started, such as real-time updates of social media comments, support numbers; Implicit cues are set before crowdfunding begins which include various project description in the form of text, image, audio, and video.  
 
