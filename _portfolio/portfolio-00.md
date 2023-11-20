@@ -15,7 +15,7 @@ The goal of crowdfunding ex-ante prediction is to extract the most relevant info
 
 In addition, we propose two large-scale multimodality crowdfunding datasets, ,Kick30 and Kick60, each containing 30,000 and 68,000 crowdfunding projects respectively. The former also includes video frame features extracted by TimeSformer and textual sequence features extracted by BERT. The experiment on Kick30 demonstrate the superiority of our method, achieving state-of-the-art performance in 10/15 of the category. Extensive modality ablation study on both dataset shows the importance of visual and textual information in the reasoning process.
 
-You can find the final report here:[CFMP Research](https://zjzhang1999.github.io/cfmp.github.io/media/paper/A%20Four-Modality%20Fusion%20Method%20For%20CF-prediction.pdf).
+You can find the final report here:[CFMP Research](https://github.com/zjzhang1999/zjzhang1999.github.io/blob/master/files/A%20Four-update%20github.pdf).
 
 
 
