@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<p style="font-family: Arial;">
 I am acting as a teaching assistant at Hong Kong Baptist University. I just got my MS degree in October at Department of [Information Systems](https://www.cb.cityu.edu.hk/is/) in CityU, where I am lucky to study for [Dr. Raymond Y.K.Lau.](https://www.cb.cityu.edu.hk/staff/raylau/).I received my BS degree from [the College of Economics and Management](https://economy.njau.edu.cn/) at Nanjing Agricultural University (NAU),and received the honor of Outstanding Graduate. I am very fortunate to be advised by [Prof.Geng Xianhui](https://economy.njau.edu.cn/xksz/jszx/gxh.htm).
 
 You can find my CV here:[Zijian 's Curriculum Vitae](../assets/Resume_Zijian.pdf).
-
+</p>
 
 
 
