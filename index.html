@@ -1,3 +1,253 @@
----
-layout: home
----
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DPH2YST3Z6"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-DPH2YST3Z6');
+    </script>
+
+    <title> Xiaomeng Xu </title>
+    <!-- <link rel="icon" type="image/x-icon" href="assets/images/stanford.ico"> -->
+</head>
+
+<body>
+    <div style="width:1000px;margin: 0px auto;">
+        <header id="header" width="400px" style="display:flex;justify-content: space-around;">
+            <a href="#profile-intro">Home</a>
+            <a href="#updates">News</a>
+            <a href="#research">Research</a>
+            <a href="#service">Service</a>
+        </header>
+        <div id="profile">
+            <div id="profile-pic">
+                <img src="figs/me.png" />
+            </div>
+            <div id="profile-intro">
+                <div id="profile-name">Zijian Zhang</div>
+                <div id="profile-email">zhang474 at uwm dot edu</div>
+                <p>
+                    I am a first-year PhD student in Computer Science at University of Wisconsin-Milwaukee and I am luckily advised by Prof. <a href="https://sites.google.com/view/zhenzeng/home?authuser=0">Zhen Zeng</a>. Previously, I obtained a M.S. in CityU and a B.S. in NJAU. 
+                    
+                    My research focuses on cyber-physical system and adversarial-ML problems.
+                </p>
+                <div>
+                    <a href="cv/cv_zj.pdf">
+                        CV
+                    </a>
+                    /
+                    <a href="https://scholar.google.com/citations?user=9pnEBegAAAAJ&hl=en">
+                        GScholar
+                    </a>
+                    /
+                    <a href="https://x.com/jasonzhang9906?s=21">
+                        Twitter
+                    </a>
+                    /
+                    <a href="https://github.com/zijian0615">
+                        Github
+                    </a>
+                    </a>
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        <div class="section" id="updates">
+            <h1>News</h1>
+            <ul>
+                <li> <b>Aug 2024</b> Started PhD at University of Wisconsin-Milwaukee.
+                <li> <b>Aug 2024</b> <a href="https://ricssworkshop.github.io/program.html">Backdoor4ICS</a> is accepted to CCS Workshop 2024, see you in Salt Lake City!
+                <li> <b>Oct 2023</b> Research assistant at HKBU, advised by Prof. <a href="https://scholars.hkbu.edu.hk/en/persons/JINGLIU">LIU</a>.
+                <li> <b>Oct 2023</b> Graduated from CityU. Goodbye,the horizon.
+                <li> <b>Jun 2022</b> Graduated from NJAU. Farewell,卫岗1号!
+            </ul>
+            <p></p>
+            <div style="clear: both;"></div>
+        </div>
+        <div class="divider"></div>
+        <div style="display:flex;flex-direction: column;" id="research">
+            <h1>Research</h1>
+            <div>
+                <a href="https://dl.acm.org/doi/10.1145/3689930.3695208" style="height: 12em;" class="research-thumb">
+                    <img src="figs/backdoor4ics.png" alt="Backdoor for ICS" 
+                    style="width: 100%; height: 100%; object-fit: contain;">
+                </a>
+                
+                <a href="" class="research-proj-title">
+                    Unveiling NN Data-free Backdoor Threats in ICS
+                </a>
+                <p>
+                    <b>Zijian Zhang</b>,
+                    <span style="color:#000;">Isra Elsharef</span> 
+                    <a style="color:#000;" href="https://sites.google.com/view/zhenzeng">Zhen Zeng </a>
+                    <br><a style="color:#000;" href="https://ricssworkshop.github.io/" >RICSS Workshop(CCS 2024)</a><br>
+                    <a href="https://dl.acm.org/doi/10.1145/3689930.3695208">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://github.com/zijian0615/Data-free-backdoor-attack-reproduce">Code</a>
+                </p>
+                <br>
+                <p>
+                    <b>TL;DR</b>:A threat modeling of backdoor attack on ICS
+                </p>
+            </div>
+            <!-- <div>
+                <a href="" style="height: 12em;" class="research-thumb">
+                    <video id="teaser" autoplay muted loop width="100%">
+                        <source src="figs/dgdm.mp4"
+                                type="video/mp4">
+                    </video>
+                </a>
+                <a href="" class="research-proj-title">
+                    Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design
+                </a>
+                <p>
+                    <b>Xiaomeng Xu</b>,
+                    <a style="color:#000;" href="https://www.cs.columbia.edu/~huy/">Huy Ha</a>,
+                    <a style="color:#000;" href="https://shurans.github.io/">Shuran Song</a>
+                    <br>Conference on Robot Learning (CoRL 2024)
+                    <br><a style="color:#000;" href="https://sites.google.com/view/corl-mapodel-workshop">MAPoDeL Workshop (CoRL 2024)</a>, <b>Best Machine Learning Paper</b>
+                    <br><a style="color:#000;" href="https://roboassembly.github.io/">Assembly Workshop (CoRL 2024)</a>, Spotlight Presentation<br>
+                    <a href="https://dgdm-robot.github.io">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://arxiv.org/abs/2402.15038">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://www.youtube.com/watch?v=8KSW1_zaGJU">Video</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://github.com/real-stanford/dgdm">Code</a>
+                </p>
+                <br>
+                <p>
+                    <b>TL;DR</b>: Learning to design task-specific manipulators without task-specific training.
+                </p>
+            </div> -->
+
+            <!-- <div>
+                <a href="https://xxm19.github.io/jnerf/" style="height: 12em;" class="research-thumb">
+                    <video id="teaser" autoplay muted loop width="100%">
+                        <source src="figs/jnerf.mp4"
+                                type="video/mp4">
+                    </video>
+                </a>
+                <a href="https://xxm19.github.io/jnerf/" class="research-proj-title">
+                    JacobiNeRF: NeRF Shaping with Mutual Information Gradients
+                </a>
+                <p>
+                    <b>Xiaomeng Xu</b>,
+                    <a style="color:#000;" href="https://yanchaoyang.github.io/">Yanchao Yang</a>,
+                    <a style="color:#000;" href="https://kaichun-mo.github.io/">Kaichun Mo</a>,
+                    <a style="color:#000;" href="https://cs.stanford.edu/~bxpan/">Boxiao Pan</a>,
+                    <a style="color:#000;" href="https://ericyi.github.io/">Li Yi</a>,
+                    <a style="color:#000;" href="https://geometry.stanford.edu/member/guibas/index.html">Leonidas J. Guibas</a>
+                    <br>Conference on Computer Vision and Pattern Recognition (CVPR 2023)<br>
+                    <a href="https://xxm19.github.io/jnerf/">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://arxiv.org/abs/2304.00341">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://www.youtube.com/watch?v=uKU9UdVL6GQ">Video</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://github.com/xxm19/jacobinerf">Code</a>
+                </p>
+                <br>
+                <p>
+                    <b>TL;DR</b>: Shaping a NeRF to encode mutual correlations in a scene via aligning Jacobians.
+                </p>
+            </div>
+
+            <div> -->
+                <!-- <a href="https://arxiv.org/abs/2210.04026" style="height: 12em;" class="research-thumb">
+                    <video id="teaser" autoplay muted loop width="100%">
+                        <source src="figs/tegtrack.mp4"
+                                type="video/mp4">
+                    </video>
+                </a>
+                <a href="https://arxiv.org/abs/2210.04026" class="research-proj-title">
+                    Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing
+                </a>
+                <p>
+                    Yun Liu*,
+                    <b>Xiaomeng Xu*</b>,
+                    Weihang Chen, Haocheng Yuan,
+                    <a style="color:#000;" href="https://hughw19.github.io/">He Wang</a>, Jing Xu,
+                    <a style="color:#000;" href="https://cray695.wixsite.com/mysite">Rui Chen</a>,
+                    <a style="color:#000;" href="https://ericyi.github.io/">Li Yi</a>
+                    <br>Robotics and Automation Letters (RA-L 2023) with a presentation at ICRA 2024<br>
+                    <a href="https://arxiv.org/abs/2210.04026">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://www.youtube.com/watch?v=S8lnBQhsfHk">Video</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://github.com/leolyliu/TEG-Track">Code</a>
+                </p>
+                <br>
+                <p>
+                    <b>TL;DR</b>: Tactile-enhanced 6D pose tracking of previously unseen in-hand objects.
+                </p>
+            </div> -->
+
+            <!-- <div>
+                <a href="https://autogpart.github.io/" style="height: 12em;" class="research-thumb">      
+                    <video id="teaser" autoplay muted loop width="100%">
+                        <source src="figs/autogpart.mp4"
+                                type="video/mp4">
+                    </video>
+                </a>
+                <a href="https://autogpart.github.io/" class="research-proj-title">
+                    AutoGPart: Intermediate Supervision Search for Generalizable 3D Part Segmentation
+                </a>
+                <p>
+                    <a style="color:#000;" href="https://meowuu7.github.io/">Xueyi Liu</a>,
+                    <b>Xiaomeng Xu</b>,
+                    <a style="color:#000;" href="https://anyirao.com/">Anyi Rao</a>,
+                    <a style="color:#000;" href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>,
+                    <a style="color:#000;" href="https://ericyi.github.io/">Li Yi</a>
+                    <br>Conference on Computer Vision and Pattern Recognition (CVPR 2022)<br>
+                    <a href="https://autogpart.github.io/">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://arxiv.org/abs/2203.06558">Paper</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://www.youtube.com/watch?v=Z0wqKLgf5ME">Video</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://github.com/Meowuu7/AutoGPart">Code</a>
+                </p>
+                <br>
+                <p>
+                    <b>TL;DR</b>: Improving the generalizability of 3D part segmentation networks by searching for intermediate supervisions.
+                </p>
+            </div> -->
+
+            <!-- <div>
+                <a href="https://www.liuguanhong.com/blog/vivipaint" style="height: 12em;" class="research-thumb"><iframe title='VideoPress Video Player' aria-label='VideoPress Video Player' width='500' height='281' src='https://video.wordpress.com/embed/NRFOiBdC?cover=1&amp;autoPlay=1&amp;controls=0&amp;loop=1&amp;muted=1&amp;persistVolume=0&amp;playsinline=1&amp;preloadContent=metadata&amp;useAverageColor=1&amp;hd=0' frameborder='0' allowfullscreen data-resize-to-parent="true"  allow='clipboard-write' ></iframe><script src='https://v0.wordpress.com/js/next/videopress-iframe.js?m=1674852142'></script>
+                </a>
+                <a href="https://www.liuguanhong.com/blog/vivipaint" class="research-proj-title">
+                    ViviPaint: Creating Dynamic Painting with a Thermochromic Toolkit
+                </a>
+                <p>
+                    Guanhong Liu, Tianyu Yu, Zhihao Yao, Haiqing Xu, Yunyi Zhang, Xuhai Xu, <b>Xiaomeng Xu</b>, Mingyue Gao, Qirui Sun, Tingliang Zhang, Haipeng Mi
+                    <br>Multimodal Technologies and Interaction (MTI 2022)<br>
+                    <a href="https://www.liuguanhong.com/blog/vivipaint">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                    <a href="https://doi.org/10.3390/mti6080063">Paper</a>
+                </p>
+                <br>
+                <p>
+                    <b>TL;DR</b>: A toolkit that assists artists and enthusiasts in creating thermochromic paintings.
+                </p>
+            </div> -->
+
+            <div style="clear: both;"></div>
+        </div>
+        <div>
+            <p>
+                * equal contribution.
+            </p>
+        </div>
+        <div class="divider"></div>
+        <div class="section" id="service">
+            <h1>Service</h1>
+            <ul>
+                <li> Teaching assistant of CS37: Discrete Information Structures</li>
+            </ul><br>
+            <p></p>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+
+</body>
+
+</html>
